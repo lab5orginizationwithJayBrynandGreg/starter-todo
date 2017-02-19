@@ -24,3 +24,4 @@ Release Date: Feb 16, 2017
 ## Updated Components
 
 - completed Job 1 (GL)
+- fixed count bug on homepage (JC)
