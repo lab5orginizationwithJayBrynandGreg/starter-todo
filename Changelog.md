@@ -18,5 +18,8 @@ Release Date: Feb 16, 2017
 ## New Components
 
 - changelog (GL)
+- created Flags , groups, priorities, sizes, statuses, tasks models (GL)
 
 ## Updated Components
+
+- completed Job 1 (GL)
