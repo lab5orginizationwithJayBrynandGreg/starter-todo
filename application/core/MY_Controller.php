@@ -39,7 +39,8 @@ class Application extends CI_Controller
 			$this->data['content'] = $this->parser->parse($this->data['pagebody'], $this->data, true);
 		}
 
-		$this->parser->parse('template', $this->data);
+		$this->parser->parse($template, $this->data);
+
 	}
 
 }
