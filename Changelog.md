@@ -22,7 +22,9 @@ Release Date: Feb 16, 2017
 - created todo list and alert (JC)
 - created Views, by_priority, by_category, template_secondary (BN)
 
+
 ## Updated Components
 
 - completed Job 1 (GL)
 - completed Job 3 (BN)
+- fixed count bug on homepage (JC)

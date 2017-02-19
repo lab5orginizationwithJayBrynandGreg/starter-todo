@@ -24,6 +24,16 @@ class Welcome extends Application
 		//count how many aren't done
 		$count = 0;
 
+		
+		foreach($tasks as $task)
+		{
+			if($task->status != 2) $count++;
+		}
+
+		$this->data['remaining_tasks'] = $count;
+
+		$count = 0;
+
 		$display_tasks;
 
 		foreach(array_reverse($tasks) as $task)
@@ -37,6 +47,8 @@ class Welcome extends Application
 
 		//and we save that as a view parameter
 		$this->data['remaining_tasks'] = $count;
+		//and we save that as a view parameter
+
 		$this->data['display_tasks'] = $display_tasks;
 		$this->data['pagebody'] = 'homepage';
 		$this->render(); 
