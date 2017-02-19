@@ -19,6 +19,7 @@ Release Date: Feb 16, 2017
 
 - changelog (GL)
 - created Flags , groups, priorities, sizes, statuses, tasks models (GL)
+- created todo list and alert (JC)
 
 ## Updated Components
 
