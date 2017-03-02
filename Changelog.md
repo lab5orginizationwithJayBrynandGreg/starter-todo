@@ -19,7 +19,15 @@ Release Date: Feb 16, 2017
 
 - changelog (GL)
 - created Flags , groups, priorities, sizes, statuses, tasks models (GL)
+- created todo list and alert (JC)
+- created Views, by_priority, by_category, template_secondary (BN)
+- Created jobs.md (BN)
+
 
 ## Updated Components
 
 - completed Job 1 (GL)
+- completed Job 3 (BN)
+- fixed count bug on homepage (JC)
+- completed Job 5 (BN)
+- fixed homempage.php (BN)
