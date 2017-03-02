@@ -1,4 +1,4 @@
-#Change Log lab 5 
+#Change Log lab 5 & 6
 
 Team membership:  Greg Little GL (Captain) & Jay Coughlan JC (Mate) & Bryn Newman BN (Mate)  
 Team conventions: Allman notation, markdown for changelog  
@@ -13,7 +13,10 @@ Release Date: Feb 16, 2017
 - Job 1 - Database and models (GL)
 - Job 2 - Homepage Features (JC)
 - Job 3 - Ordered List Page Features (BN)
-- Job 5 - Help Wanted Page Features (GL)
+- Job 5 - Help Wanted Page Features (BN)
+- Job 4 - Maintenance list (GL)
+- Job 6 - Pagination (??)
+- Job 7 - User roles (??)
 
 ## New Components
 
