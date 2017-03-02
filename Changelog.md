@@ -22,12 +22,14 @@ Release Date: Feb 16, 2017
 - created todo list and alert (JC)
 - created Views, by_priority, by_category, template_secondary (BN)
 - Created jobs.md (BN)
-
+- Created oneitem.php, mtce.php
 
 ## Updated Components
 
 - completed Job 1 (GL)
+- completed Job 2 (JC)
 - completed Job 3 (BN)
 - fixed count bug on homepage (JC)
 - completed Job 5 (BN)
 - fixed homempage.php (BN)
+- completed Job 4 (GL)
