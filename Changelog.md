@@ -29,7 +29,7 @@ Release Date: Feb 16, 2017
 - Created Roles.php (owner and guest) (BN)
 - Created itemnav (BN)
 - Created RDB in application/database (JC)
-
+- Created _akert.php (GL)
 
 ## Updated Components
 
@@ -44,3 +44,5 @@ Release Date: Feb 16, 2017
 - completed Job 6 (BN)
 - Edited itemlist, mtce php pages (BN)
 - completed Job 7 (BN)
+- completed Job 8 (JC)
+- completed Job 9 (GL)
