@@ -28,6 +28,7 @@ Release Date: Feb 16, 2017
 - Created oneitem.php, mtce.php (BN)
 - Created Roles.php (owner and guest) (BN)
 - Created itemnav (BN)
+- Created RDB in application/database (JC)
 - Created oneitemx.php, itemadd.php (BN)
 
 
