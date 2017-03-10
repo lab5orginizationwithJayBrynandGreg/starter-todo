@@ -21,9 +21,8 @@ Release Date: Feb 16, 2017
 - Job 9 - Integrate the Caboose package (GL)
 - Job 10 - Beef up the Homepage (JC)
 - Job 11 - Beef up the maintenance page (BN)
-- Job 12 - Add item maintenance (finally) (GL)
 - Job 11b - Polish the item maintenance (BN)
-
+- Job 12 - Add item maintenance (GL)
 ## New Components
 
 - changelog (GL)
