@@ -29,6 +29,7 @@ Release Date: Feb 16, 2017
 - Created Roles.php (owner and guest) (BN)
 - Created itemnav (BN)
 - Created RDB in application/database (JC)
+- Created oneitemx.php, itemadd.php (BN)
 
 
 ## Updated Components
@@ -44,3 +45,5 @@ Release Date: Feb 16, 2017
 - completed Job 6 (BN)
 - Edited itemlist, mtce php pages (BN)
 - completed Job 7 (BN)
+- updated _menubar.php, Mtce.php and Changelog.md (BN)
+- completed Job 11 (BN) 
