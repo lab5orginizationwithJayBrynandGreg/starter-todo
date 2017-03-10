@@ -17,6 +17,12 @@ Release Date: Feb 16, 2017
 - Job 4 - Maintenance list (GL)
 - Job 6 - Pagination (BN)
 - Job 7 - User roles (BN)
+- Job 8 - USE RDB for Sessions (JC)
+- Job 9 - Integrate the Caboose package (GL)
+- Job 10 - Beef up the Homepage (JC)
+- Job 11 - Beef up the maintenance page (BN)
+- Job 12 - Add item maintenance (finally) (GL)
+- Job 11b - Polish the item maintenance (BN)
 
 ## New Components
 
@@ -30,6 +36,7 @@ Release Date: Feb 16, 2017
 - Created itemnav (BN)
 - Created RDB in application/database (JC)
 - Created _akert.php (GL)
+- Created oneitemx.php, itemadd.php (BN)
 
 ## Updated Components
 
@@ -46,3 +53,5 @@ Release Date: Feb 16, 2017
 - completed Job 7 (BN)
 - completed Job 8 (JC)
 - completed Job 9 (GL)
+- updated _menubar.php, Mtce.php and Changelog.md (BN)
+- completed Job 11 (BN) 
