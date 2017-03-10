@@ -47,3 +47,4 @@ Release Date: Feb 16, 2017
 - completed Job 7 (BN)
 - updated _menubar.php, Mtce.php and Changelog.md (BN)
 - completed Job 11 (BN) 
+- Updated job list to have checkmarks to complete jobs (JC)
