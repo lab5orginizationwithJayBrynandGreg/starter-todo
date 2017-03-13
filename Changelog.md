@@ -34,8 +34,9 @@ Release Date: Feb 16, 2017
 - Created Roles.php (owner and guest) (BN)
 - Created itemnav (BN)
 - Created RDB in application/database (JC)
-- Created _akert.php (GL)
+- Created _alert.php (GL)
 - Created oneitemx.php, itemadd.php (BN)
+- created itemedit.php (GL)
 
 ## Updated Components
 
@@ -56,3 +57,5 @@ Release Date: Feb 16, 2017
 - completed Job 11 (BN) 
 - Updated job list to have checkmarks to complete jobs (JC)
 - completed Job 10 (JC)
+- completed Job 12 (GL)
+- completed Job 11b (GL)
